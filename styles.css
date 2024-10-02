@@ -172,7 +172,7 @@ html, body {
     width: 176px;
     height: 174px;
     padding: 16px;
-    background: white;
+    background: rgb(255, 255, 255);
     display: flex;
     flex-direction: column;
     justify-content: flex-end;
@@ -181,16 +181,12 @@ html, body {
     border-radius: 8px;
 }
 
-.skill i,
-.skill .css-icon {
-    font-size: 32px;
-    color: #0050AF;
-}
+
 
 .skill .css-icon {
     width: 22px;
     height: 35.54px;
-    background: #0050AF;
+    background: #ffffff;
     display: block;
 }
 
@@ -230,13 +226,13 @@ html, body {
 .hobby i,
 .hobby .hobby-icon {
     font-size: 32px;
-    color: #0050AF;
+    color: #ffffff;
 }
 
 .hobby .hobby-icon.skateboarding {
     width: 32px;
     height: 32px;
-    background: #0050AF;
+    background: #ffffff;
     position: relative;
 }
 
@@ -244,7 +240,7 @@ html, body {
     content: '';
     width: 24px;
     height: 24px;
-    background: #0050AF;
+    background: #ffffff;
     position: absolute;
     top: 4px;
     left: 4px;
