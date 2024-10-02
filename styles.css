@@ -246,6 +246,50 @@ html, body {
     left: 4px;
 }
 
+.iconox1 {
+    position: absolute;
+    top: 1280px;
+    right: 1215px;
+    width: 20px;
+    height: 20px;
+}
+.iconox2 {
+    position: absolute;
+    top: 1270px;
+    right: 1030px;
+    width: 20px;
+    height: 20px;
+
+} .iconox3 {
+
+    position: absolute;
+    top: 1275px;
+    right: 830px;
+    width: 20px;
+    height: 20px;
+} 
+.iconox4 {
+    position: absolute;
+    top:1275px;
+    right: 635px;
+    width: 20px;
+    height: 20px;
+} 
+.iconox5 {
+    position: absolute;
+    top: 1280px;
+    right: 450px;
+    width: 20px;
+    height: 20px;
+} 
+.iconox6 {
+    position: absolute;
+    top: 1285px;
+    right: 255px;
+    width: 20px;
+    height: 20px;
+} 
+
 /* Sección de Formación Académica */
 .education-section {
     padding: 32px;
@@ -292,6 +336,28 @@ html, body {
     color: #2A7AE4;
 }
 
+.urbe {
+    position: absolute;
+    top: 1530px;
+    right: 1220px;
+    width: 20px;
+    height: 20px;
+}
+
+.alura {
+    position: absolute;
+    top: 1580px;
+    right: 835px;
+    width: 20px;
+    height: 20px;
+}
+.alura2 {
+    position: absolute;
+    top: 1580px;
+    right: 435px;
+    width: 20px;
+    height: 20px;
+}
 /* Sección de Experiencia Profesional / Proyectos */
 .projects-section {
     padding: 32px;
@@ -465,6 +531,51 @@ html, body {
     background: #0050AF;
     position: relative;
 }
+
+.icono1 {
+    position: absolute;
+    top: 970px;
+    right: 1215px;
+    width: 20px;
+    height: 20px;
+}
+.icono2 {
+    position: absolute;
+    top: 980px;
+    right: 1015px;
+    width: 20px;
+    height: 20px;
+
+} .icono3 {
+
+    position: absolute;
+    top: 970px;
+    right: 830px;
+    width: 20px;
+    height: 20px;
+} 
+.icono4 {
+    position: absolute;
+    top: 980px;
+    right: 630px;
+    width: 20px;
+    height: 20px;
+} 
+.icono5 {
+    position: absolute;
+    top: 980px;
+    right: 435px;
+    width: 20px;
+    height: 20px;
+} 
+.icono6 {
+    position: absolute;
+    top: 980px;
+    right: 250px;
+    width: 20px;
+    height: 20px;
+} 
+
 
 /* Media Queries para Responsividad */
 @media (max-width: 1200px) {
